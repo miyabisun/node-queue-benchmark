@@ -1,0 +1,36 @@
+{
+  "name": "redux-speed-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "install": "^0.10.1",
+    "microevent2": "^1.1.0",
+    "mobx": "^3.2.2",
+    "mocha": "^3.5.3",
+    "moment": "^2.18.1",
+    "npm": "^5.4.2",
+    "pubsub-js": "^1.5.7",
+    "ramda": "^0.24.1",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyabisun/redux-speed-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyabisun/redux-speed-test/issues"
+  },
+  "homepage": "https://github.com/miyabisun/redux-speed-test#readme"
+}
